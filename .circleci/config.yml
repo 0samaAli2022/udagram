@@ -65,12 +65,7 @@ jobs:
           command: |
             echo "# TODO: Install, build, deploy in both apps"
             npm run deploy
-<<<<<<< HEAD
-=======
-            eb use udagram-api-dev
-            npm run setebenv
->>>>>>> d53c8d57c9a32ae89e030d044c51bb941330f7b2
-            
+      
 workflows:
   udagram:
     jobs:
