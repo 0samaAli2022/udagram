@@ -39,7 +39,7 @@ Add all files into repo after build and commit it to github
 ### 7) CircleCi
 Added all files to the CircleCi and setup the project with the needed Environment variables
 #### Checking CircleCi Environment list
-![image](https://user-images.githubusercontent.com/106440455/186284668-fe26a677-d2e5-40ba-90c6-46c528b20e51.png)
+![image](https://user-images.githubusercontent.com/106440455/186418698-8e2687f1-5f24-4f9c-87c4-427b99c81abb.png)
 
 #### Checking CircleCi Build
 ![image](https://user-images.githubusercontent.com/106440455/186284730-bdde5412-979f-4c04-88c0-52be1adeae97.png)
